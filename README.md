@@ -1,7 +1,7 @@
 # The-Spark-Foundation-Tasks
-This repository will include the tasks that have been performed at The Spark Foundation. https://internship.thesparksfoundation.info/ .
-\
-1. Sport - Exploratory Data Analysis: ‘Indian Premier League’
+This repository will include the tasks that have been performed at The Spark Foundation. https://internship.thesparksfoundation.info/
+
+1️⃣ Sport - Exploratory Data Analysis: ‘Indian Premier League’
 
 Objective: \
 ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. \
@@ -10,7 +10,7 @@ Objective: \
 Watch the Analysis Video on Youtube: https://youtu.be/sQRcw2X9wrU
 \
 \
-2. Classification using Decision Tree
+2️⃣ Classification using Decision Tree
 
 Objective:
 ● Create the Decision Tree classifier and visualize it graphically. \

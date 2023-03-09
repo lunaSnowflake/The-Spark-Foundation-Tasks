@@ -1,6 +1,7 @@
 # The-Spark-Foundation-Tasks
 This repository will include the tasks that have been performed at The Spark Foundation. https://internship.thesparksfoundation.info/
-
+\
+\
 1. Sport - Exploratory Data Analysis: ‘Indian Premier League’
 
 Objective: \
